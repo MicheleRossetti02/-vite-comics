@@ -1,0 +1,25 @@
+@use 'variables' as *;
+
+#third-block {
+    background-image: url('./assets/img/footer-bg.jpg');
+    background-size: cover;
+
+    h5 {
+        color: white;
+    }
+
+    a {
+        text-decoration: none;
+        color: #959595;
+    }
+
+    .info_footer {
+        flex-direction: column;
+    }
+
+    .logo-bg {
+        background-image: url('./assets/img/dc-logo-bg.png');
+        background-repeat: no-repeat;
+        background-position: 0%;
+    }
+}

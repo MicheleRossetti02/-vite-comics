@@ -5,12 +5,14 @@
 import SiteHeader from './components/SiteHeader.vue'
 import FirstBlock from './components/FirstBlock.vue'
 import SecondBlock from './components/SecondBlock.vue'
+import ThirdBlock from './components/ThirdBlock.vue'
 export default {
   name: 'App',
   components: {
     SiteHeader,
     FirstBlock,
     SecondBlock,
+    ThirdBlock,
   }
 }
 </script>
@@ -22,6 +24,8 @@ export default {
   <first-block></first-block>
 
   <second-block></second-block>
+
+  <third-block></third-block>
 
 
 
