@@ -1,0 +1,12 @@
+@use 'variables' as *;
+
+header {
+    nav {
+        background-color: $light;
+
+        img {
+            width: 100px;
+        }
+    }
+
+}
