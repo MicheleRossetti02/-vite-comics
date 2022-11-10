@@ -11,6 +11,8 @@ header {
         a {
             margin: 30px;
             padding-bottom: 30px;
+            text-decoration: none;
+            color: $secondary_color;
 
             &:hover {
                 border-bottom: 5px solid $primary_color;
