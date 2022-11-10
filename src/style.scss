@@ -1,4 +1,7 @@
+@use '../node_modules/bootstrap';
 @use './assets/style/header';
+@use './assets/style/first_block';
+@use './assets/style/second_block';
 
 * {
   padding: 0;

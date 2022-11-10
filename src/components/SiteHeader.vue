@@ -6,9 +6,10 @@ export default {
 </script>
 
 <template>
-    <header id="site-header">
+    <header id="site-header" class="container">
 
-        <nav class="navbar navbar-dark bg-dark">
+
+        <nav class=" navbar">
             <!-- Navbar content -->
             <div class="logo">
                 <img src="../assets/img/dc-logo.png" alt="">
@@ -23,7 +24,7 @@ export default {
                 <a href="#">VIDEOS</a>
                 <a href="#">FANS</a>
                 <a href="#">NEWS</a>
-                <a href="#">SHOP</a>
+                <a class="m-0" href="#">SHOP</a>
             </div>
 
         </nav>

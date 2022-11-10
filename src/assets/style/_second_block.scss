@@ -1,0 +1,20 @@
+@use 'variables' as *;
+
+#second-block {
+    background-color: $primary_color;
+
+
+    .dc {
+
+
+
+        img {
+            width: 50px;
+        }
+
+        p {
+            padding-left: 1rem;
+            color: white;
+        }
+    }
+}
