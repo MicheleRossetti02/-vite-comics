@@ -9,7 +9,7 @@ export default {
     <header id="site-header" class="container">
 
 
-        <nav class=" navbar">
+        <nav class=" navbar p-0">
             <!-- Navbar content -->
             <div class="logo">
                 <img src="../assets/img/dc-logo.png" alt="">
