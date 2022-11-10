@@ -1,0 +1,24 @@
+@use 'variables' as *;
+
+#site-footer {
+
+    background-color: #303030;
+
+
+    .row {
+        align-items: center;
+    }
+
+    button {
+
+        padding: 1rem;
+        background-color: #303030;
+        border: 2px solid $primary_color;
+    }
+
+    p {
+        color: $primary_color;
+        font-size: large;
+    }
+
+}

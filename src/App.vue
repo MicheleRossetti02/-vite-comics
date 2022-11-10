@@ -6,6 +6,7 @@ import SiteHeader from './components/SiteHeader.vue'
 import FirstBlock from './components/FirstBlock.vue'
 import SecondBlock from './components/SecondBlock.vue'
 import ThirdBlock from './components/ThirdBlock.vue'
+import SiteFooter from './components/Footer.vue'
 export default {
   name: 'App',
   components: {
@@ -13,6 +14,7 @@ export default {
     FirstBlock,
     SecondBlock,
     ThirdBlock,
+    SiteFooter,
   }
 }
 </script>
@@ -26,6 +28,8 @@ export default {
   <second-block></second-block>
 
   <third-block></third-block>
+
+  <site-footer></site-footer>
 
 
 
