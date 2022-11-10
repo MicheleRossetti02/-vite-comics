@@ -7,6 +7,16 @@ header {
         img {
             width: 100px;
         }
+
+        a {
+            margin: 30px;
+            padding-bottom: 30px;
+
+            &:hover {
+                border-bottom: 5px solid $primary_color;
+            }
+        }
+
     }
 
 }
