@@ -11,3 +11,25 @@
     background-color: $secondary_color;
 
 }
+
+.card {
+    background-color: $secondary_color;
+    height: 100%;
+    border: 0;
+    border-radius: 10px;
+
+}
+
+.card_text {
+    background-color: $secondary_color;
+}
+
+.button_load {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: $primary_color;
+
+}
