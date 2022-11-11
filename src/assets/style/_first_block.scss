@@ -1,5 +1,12 @@
 @use 'variables' as *;
 
+
+.header_block {
+    background-image: url('./assets/img/jumbotron.jpg');
+    height: 400px;
+    background-size: cover;
+}
+
 .content {
     background-color: $secondary_color;
 

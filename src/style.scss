@@ -1,12 +1,7 @@
 @use '../node_modules/bootstrap';
+@use './assets/style/common';
 @use './assets/style/header';
 @use './assets/style/first_block';
 @use './assets/style/second_block';
 @use './assets/style/third_block';
 @use './assets/style/footer';
-
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}

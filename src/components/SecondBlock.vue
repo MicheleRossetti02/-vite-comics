@@ -1,7 +1,9 @@
 <script >
 export default {
     name: 'SecondBlock'
+
 }
+
 
 </script>
 <template>
@@ -38,3 +40,7 @@ export default {
     </div>
 
 </template>
+
+<style>
+
+</style>
